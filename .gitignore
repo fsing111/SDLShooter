@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# build
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# vscode
+.vscode/
+
+# executable
+*.exe
+*.out
+*.app
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
