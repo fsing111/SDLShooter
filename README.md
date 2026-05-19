@@ -23,24 +23,24 @@ This project is a personal learning project focused on:
 ---
 
 # Features  功能
-Player movement     玩家移动
-Shooting system     射击系统
-Enemy spawning      敌人生成
-Scene switching     场景切换
-UTF-8 text rendering/inputUTF-8  文本输入
-Keyboard input handling          键盘输入系统
-SDL2 rendering pipelineSDL2      字体渲染
-Basic UI system     基础 UI
+- Player movement     玩家移动
+- Shooting system     射击系统
+- Enemy spawning      敌人生成
+- Scene switching     场景切换
+- UTF-8 text rendering/inputUTF-8  文本输入
+- Keyboard input handling          键盘输入系统
+- SDL2 rendering pipelineSDL2      字体渲染
+- Basic UI system     基础 UI
 
 
 ---
 
 # Project Structure  项目结构
-SDLShooter/
-│
-├── assets/        # textures/fonts/audio  图片/字体/音频资源
-├── include/       # header files  头文件
-├── src/           # source files  源代码
-├── CMakeLists.txt
-├── README.md
-└── .gitignore
+- SDLShooter/
+- │
+- ├── assets/        # textures/fonts/audio  图片/字体/音频资源
+- ├── include/       # header files  头文件
+- ├── src/           # source files  源代码
+- ├── CMakeLists.txt
+- ├── README.md
+- └── .gitignore
